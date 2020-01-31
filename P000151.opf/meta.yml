@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། དཔའ་བོ་སྐུ་ཕྲེང་གཉིས་པ་གཙུག་ལག་ཕྲེང་བ།
+  sku: VVI-012-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Essence of the Inconceivably Vast and Profound Ocean of Mahayana:A Commentary
+      on the Bodhisattavacharyavatara, Volume 1
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 12-1
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༡༢-༡
+  author:
+    en: Pawo Tsuklak Trengwa
+    bo: དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-012-1
+  category:
+    en: Bodhicharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-012-1.epub
+  description:
+    en: ''
+    bo: ''
