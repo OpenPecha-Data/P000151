@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000151
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། དཔའ་བོ་སྐུ་ཕྲེང་གཉིས་པ་གཙུག་ལག་ཕྲེང་བ།
-  sku: VVI-012-1
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: VVI-012-1
 web_metadata:
   title:
     en: The Essence of the Inconceivably Vast and Profound Ocean of Mahayana:A Commentary
